@@ -39,6 +39,6 @@ Run the app
   react-native run-android
 ```
 
-Make sure to setup your [hardware](https://github.com/AandersonL/Segments-ESP32) before use all functions.
+Make sure to setup your [hardware](https://github.com/AandersonL/Segments-ESP32) before use all functions and the [file uploader tool](https://github.com/AandersonL/Simple-File-Uploader) for images.
 
 This was a university project, so i didn't have enough time to make everything nicer on code. you will probably find some nasty things in the source, be free to change!
