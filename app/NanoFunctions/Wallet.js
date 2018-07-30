@@ -4,10 +4,10 @@ import { Wallet, Block } from '../rai-wallet';
   We are using Nanode as API, just to process and broadcast our blocks
   Everything happen in this app, and nanode just calculate the pow and publish the block.
 */
-const API_KEY = '9b3790c1-6217-11e8-9e40-bf3b07fd7286';
+const API_KEY = 'xxxx-xxx-xxx-xxx-xxxx';
 
 const rpc = axios.create({
-  baseURL: 'https://api.nanode.co',
+  baseURL: 'https://xxxxxx',
   headers: {
     Authorization: API_KEY
   }
