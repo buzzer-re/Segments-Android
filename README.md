@@ -15,7 +15,7 @@ See the [video](https://streamable.com/o0yyt) of the usage.
 ##### Setup
 
 
-You will need [rn-nodify](https://github.com/tradle/rn-nodeify) in order to compile your project propely. React native doesn't acceptsome nodejs libraries directly(like crypto or blakejs) this is a hack then to use properly.
+You will need [rn-nodify](https://github.com/tradle/rn-nodeify) in order to compile your project propely. React native doesn't accept some nodejs libraries directly(like crypto or blakejs) this is a hack to use properly.
 
 ```
   npm i 
