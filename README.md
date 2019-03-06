@@ -10,7 +10,7 @@ All nano operations run on top of [rai-wallet](https://github.com/chriscohoat/ra
 
 Lean more about develop nano applications on their new platform [Nano Developers](https://developers.nano.org/)
 
-See the [video](https://streamable.com/o0yyt) of the usage.
+See the [video](https://streamable.com/7bslw) of the usage.
 
 ##### Setup
 
