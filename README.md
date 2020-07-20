@@ -1,6 +1,6 @@
 # Segments App
 
-Segments is react native app for a university project that envolve [Nano Currency](https://nano.org) for payaments using bluetooth as middleware, controlled by a [ESP32](https://github.com/AandersonL/Segments-ESP32).
+Segments is react native app for a university project that envolve [Nano Currency](https://nano.org) for payments using bluetooth as middleware, controlled by a [ESP32](https://github.com/AandersonL/Segments-ESP32).
 
 The basic idea behind Segments is to make a prototype of a device that can be used in any place to store the core information that allow client order for some product directly from his app in different places, like a Coffe Shop, Restaurant etc, and pay instantly, removing the need to wait any queue!
 
