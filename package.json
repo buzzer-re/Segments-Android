@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "@tradle/react-native-http": "^2.0.0",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "base-64": "^0.1.0",
     "browserify-zlib": "^0.1.4",
     "console-browserify": "^1.1.0",
